@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: scaffolder-updates-test
+  description: test of current project scaffolder updates
+  private: false
+  homepage: https://npm.im/@travi/scaffolder-updates-test
